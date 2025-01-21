@@ -24,7 +24,9 @@ Open style.css and add styles for a clean and professional look.
 
 #### Step 6: Add More Features 
 1.Include images to personalize the site.
+
 2.Use CSS animations to enhance interactivity.
+
 3.Add a contact form with basic HTML form elements.
 
 #### Step 7: Make It Responsive
