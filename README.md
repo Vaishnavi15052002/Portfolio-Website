@@ -18,7 +18,8 @@ Click index.html and add the required contents.
 Open style.css and add styles for a clean and professional look.
 
 #### Step 5: Test Your Website
-1.Open index.html in a web browser to check how it looks.
+1.Open index.html in a web browser to check how it looks. 
+
 2.Make changes as needed to improve the layout and content.
 
 #### Step 6: Add More Features 
