@@ -12,4 +12,4 @@ styles.css (for design and styling)
 images/ (a folder to store images, if needed)
 
 ### Step 3: Write the HTML Structure
-Open [index.html](C:\Users\vaish\Downloads\Portfolio-Website\Portfolio-Website-Template-main\index.html)
+Open [html file](C:\Users\vaish\Downloads\Portfolio-Website\Portfolio-Website-Template-main\index.html)
