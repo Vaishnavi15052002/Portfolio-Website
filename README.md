@@ -12,7 +12,7 @@ styles.css (for design and styling)
 images/ (a folder to store images, if needed)
 
 #### Step 3: Write the HTML Structure
-Click [here](C:\Users\vaish\Downloads\Portfolio-Website\Portfolio-Website-Template-main\index.html)
+Click [here](C:\Users\vaish\Downloads\Portfolio-Website\Portfolio-Website-Template-main>)
 
 #### Step 4: Style the Website Using CSS
 Open style.css and add styles for a clean and professional look.
